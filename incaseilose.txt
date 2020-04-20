@@ -1,0 +1,46 @@
+<h6> <strong> Additional Links: </strong> </h6>
+      <a href="https://docs.google.com/document/d/1xIk5ZeDhgEP4Bi0k8ukKhOgddORrrWQeIaC0IOy9Pxk/edit?usp=sharing" target="_blank"> Scratch Project Documentation </a>
+    <br>
+    <a href="https://docs.google.com/document/d/1hdUTEliBtMUYNIcOOCP-ou-ex-_1ma4QqisOWM9XeiI/edit?usp=sharing" target="_blank">Scratch Project Guidelines/Rubric </a> 
+         <br> <br> 
+         <p> <strong> Instructions: </strong> HELP! Nemo was stolen by a scuba diver! Dory and Marlin are taking you with them on an adventure to find Nemo. During the story, you will have different buttons for options on how you want the story to go. Remember, choose wisely! The wrong choice could end up with a few dead fish... Good luck!
+    </div> 
+  <!--Embed Scratch Game-->
+  <div class="col-sm-6">
+     <iframe src="https://scratch.mit.edu/projects/328023474/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+     <br> <br> <br> 
+
+    
+  </div> 
+
+<!--Description of project-->
+<p> <br> For the Scratch project, my partner and I chose to go with creating a story (other than the game)<span id="dots"> ... </span><span id="more">. Creating a story seemed to allow us to use our creativity more freely. The objective whilst creating a story was primarily to create a story with multiple acts. The users should be able to affect the storyline based on their choices, and generally affect the story throughout (using keyboard/mouse input). My specific role in the project was to fix glitches and create new scenes. At the start, we had little difficulty choosing our topic: a recreation of <em> Finding Nemo</em>. We had various storylines when Marlin and Dory were attempting to find Nemo: going to the dentist office, the whales, sharks, etc. Creating the various scenes using code was definitely more difficult. Various glitches appeared in our story. Buttons wouldn't disappear after being clicked, characters would move too fast, and the scenes would sometimes get mixed up. To overcome these challenges, my partner and I communicated effectively and consistently, letting the other know about the present challenges. When one of us couldn't fix the problem, the other would. Throughout the project, I learned how to code with Scratch and communicate with my partner more effectively through experimenting with different code, searching up solutions through Google, and contacting my partner when challenges were present. Overall, our project was exceptional due to it's combination of code and creativity, accomplished through our teamwork.</span> </p>
+<button onclick="myFunction()" id="myBtn">Read more</button>
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more";
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less";
+    moreText.style.display = "inline";
+  }
+}
+</script>
+<p> 
+<br> <br> 
+<p> ______________________________________________________________________________________________________________________________________________________________________
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6">
+      <h5> <strong> Scratch Project - <em>Finding Nemo</em> </h5> </strong> 
+      <p> <strong> Project: </strong>  Scratch Game/<em> Story</em>  <br> <strong> Course: </strong> Computer Science Principles (CSP) <br> <strong> Duration: </strong> Approximately 8 days (September 3, 2019 - September 11, 2019) 
+      <br> <strong> Objective: </strong> Create a story with different sections using Scratch, and allow users to affect the storyline and it's branchpoints. <br> 
+      <strong> Type of Project: </strong> Group Project </p>
