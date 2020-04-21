@@ -1,0 +1,62 @@
+<br>
+<!--Education-->
+<h2> <strong> Education </strong> </h2> 
+<ul style="list-style-type:none;"> 
+  </li><strong>Dublin High School<br> Dublin, CA</strong> -- 2019-2023 </li><br>
+  <li><strong>Expected Diploma:</strong> 2023</li><li> <li><strong>GPA: </strong> 4.0 <strong>
+  <li>Relevant Coursework:</strong> Computer Science Principles</li> <li> <strong> College of Interest: </strong> University of California, Berkeley</li>  
+  <ul> <li>MS in Computer Science </li> </ul> </ul>
+
+<!--Volunteer Experience--> 
+
+  <br>
+  <h2> <strong> Volunteer Experience </strong> </h2>
+  <br>
+  <ul style="list-style-type:none;"> </li><h5><strong>Lawrence Hall of Science</strong>/ Ingenuity Teen Volunteer</h5>  
+    <p> <small> APRIL 2020 - PRESENT </small> </p> 
+    <p> Help kids design and test products using the
+engineering design process. </p>
+  </ul> 
+  <ul style="list-style-type:none;"> 
+    </li><h5><strong>Alameda County Library/</strong> Teen Volunteer </h5></li> 
+    <p> <small> JANUARY 2020 - PRESENT  </small> </p> 
+    <p> Set-up for events and engage the
+community with various activities while
+maintaining enthusiasm for books. </p> </ul>
+  <ul style="list-style-type:none;"> 
+      </li><h5><strong>Ernie Reyes West Coast World Martial Arts/</strong> Assistant Instructor  </h5></li> 
+      <p> <small> APRIL 2016 - PRESENT | Dublin, CA 94568 </small> </p> 
+      <p> Teach martial art techniques to students,
+modifying curriculum based on age groups. </p> </ul>
+
+<!--Extracurricular Activities-->
+<!--style="list-style-type:none;" allows no actual bullet point-->
+
+      <h2> <strong> Extracurricular Activities </strong> <br> <br> </h2>
+    <ul style="list-style-type:none;">                   
+    <strong> <h5>  Martial Arts  </strong> (2008-Present)/ 
+    <strong> Assistant instructor </strong> </h5> <br>
+    <strong> <h5> Soccer </strong> (2018-2019)  RAGE (recreational): MVP <br> Dublin United Soccer (competitive) <br> <br>
+    <h5> <strong> Piano </strong> (2016-2019)  </h5>  </ul> 
+</div> 
+<!--Skills-->
+
+<h2> <strong> Skills </strong> </h2> <br>
+<ul style="list-style-type:none;"><h5><strong>Languages</h5></strong> <ul style="list-style-type:none;"> <p> English (fluent) <br> Spanish (proficient) <br> Tamil (basic) <br> </p> </ul> </ul>  
+
+<ul style="list-style-type:none;"><h5><strong>Computer Skills </h5></strong> 
+<ul style="list-style-type:none;"> 
+  <p> <strong> Google Drive:</strong> Docs, Slides, Forms;
+  <strong> Basic: </strong> Sites and Sheets <br> 
+  <strong> MS Office:</strong> Word and PowerPoint <br> 
+  <strong> Programs: </strong> Mit App Inventor, Scratch, Replit (basic) <br> 
+  <strong> Web Development: </strong> HTML, CSS, Google Sites, Wix, Canva <br> 
+  <strong> Video editing softwares: </strong> IMovie, Quik, Powtoon  <br> <strong> Social Media: </strong> Instagram, Reddit, Tumblr <br> <strong> WPM: </strong> 82 </p>  </ul> </ul>
+</p>
+
+<!--Awards-->
+ <h2> <strong> Awards </strong>  </h2> 
+ <ul style="list-style-type:none;"> 
+  <br> <p> <strong> Honor Roll: </strong> Four years of middle school/ <strong> 4.0 GPA: </strong> 8th grade-Present
+  <br> <br> <strong> Martial Arts: </strong> Nominated for Best Tester (1st degree black belt test), Best Journal Award <br> 
+  <strong> <br> Piano:</strong> Certificate of Merit (Level 5)  </p> <strong> 2019 Global Literacy Champion</strong> (Named by the African Library Project by donating 1,724 books to Malawi) <br>
